@@ -27,9 +27,9 @@ I believe in continuous learning and staying up-to-date with the latest trends i
 
 Here are some of the projects I've worked on:
 
-- [Oracle Browser]((https://github.com/Summonshr/oracle-browser)): Oracle Browser, where data exploration meets elegance and efficiency.
-- [Rv life]((https://github.com/Summonshr/rvlife)): This exciting project is built upon a cutting-edge tech stack, carefully chosen to provide you with the best development experience.
-- [Electron Notebook]((https://github.com/Summonshr/electron-notebook)): A simple note-taking application built with Electron, Tailwind CSS, and Vue.js.
+- [Oracle Browser](https://github.com/Summonshr/oracle-browser): Oracle Browser, where data exploration meets elegance and efficiency.
+- [Rv life](https://github.com/Summonshr/rvlife): This exciting project is built upon a cutting-edge tech stack, carefully chosen to provide you with the best development experience.
+- [Electron Notebook](https://github.com/Summonshr/electron-notebook): A simple note-taking application built with Electron, Tailwind CSS, and Vue.js.
 
 I'm also actively contributing to open-source projects, such as [Filamentphp](https://github.com/filamentphp/filament).
 
