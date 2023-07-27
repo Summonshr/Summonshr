@@ -20,6 +20,7 @@ My tech arsenal includes:
 - Alpine.js :mountain:: Enhancing interactivity and reactivity in web applications with minimal overhead.
 - HTML/CSS :rainbow:: Crafting captivating user experiences.
 - PL/SQL :file_cabinet:: Mastering the art of database management.
+- PestPHP :bug:: A delightful PHP testing framework with a focus on simplicity and readability.
 
 
 ## 🌱 Learning & Growing
