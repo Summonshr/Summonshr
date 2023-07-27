@@ -38,7 +38,7 @@ I'm also actively contributing to open-source projects, such as [Filamentphp](ht
 I'm always open to new opportunities and collaborations. Let's connect and discuss how we can work together:
 
 - [LinkedIn](https://linkedin.com/in/suman-shresth)
-- [Email](summonshr@gmail.com)
+- [Email](mailto:summonshr@gmail.com)
 - [Twitter](https://twitter.com/sumfreelancer)
 
 Feel free to explore my repositories, and don't forget to leave a ⭐️ if you find something interesting!
