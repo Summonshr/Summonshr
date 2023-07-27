@@ -8,16 +8,18 @@ Welcome to my GitHub universe, where innovation meets finesse! I'm Suman Shresth
 
 My tech arsenal includes:
 
-- **Laravel** 🌐: Powering my backend with its elegance and efficiency.
-- **Inertia.js** ⚡: Creating seamless, server-driven Vue.js and React.js apps.
-- **Vue.js** 🖌️: Building interactive and intuitive user interfaces.
-- **React.js** ⚛️: Crafting dynamic and reusable UI components.
-- **Flutter** 📱: Exploring the world of cross-platform mobile app development.
-- **Electron.js** ⚡: Building desktop applications with web technologies.
-- **Node.js** 🚀: Enabling server-side JavaScript for scalable applications.
-- **FilamentPHP** 🛠️: Building robust admin panels with ease and style.
-- **PL/SQL** 🗄️: Mastering the art of database management.
-- **JavaScript**, **HTML/CSS** 🌈: Crafting captivating user experiences.
+Laravel 🌐: Powering my backend with its elegance and efficiency.
+Inertia.js: Creating seamless, server-driven Vue.js and React.js apps.
+Vue.js: Building interactive and intuitive user interfaces.
+React.js: Crafting dynamic and reusable UI components.
+Flutter 📱: Exploring the world of cross-platform mobile app development.
+Electron.js: Building desktop applications with web technologies.
+Node.js 🚀: Enabling server-side JavaScript for scalable applications.
+FilamentPHP 🛠️: Building robust admin panels with ease and style.
+Livewire ⚡: Developing modern, dynamic Laravel applications with real-time features.
+Alpine.js 🏔️: Enhancing interactivity and reactivity in web applications with minimal overhead.
+HTML/CSS 🌈: Crafting captivating user experiences.
+PL/SQL 🗄️: Mastering the art of database management.
 
 ## 🌱 Learning & Growing
 
