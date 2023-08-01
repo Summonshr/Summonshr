@@ -22,6 +22,7 @@ My tech arsenal includes:
 - PL/SQL :file_cabinet:: Mastering the art of database management.
 - PestPHP :bug:: A delightful PHP testing framework with a focus on simplicity and readability.
 
+<div style="display:flex;">
 <img src="https://laravel.com/img/notification-logo.png" alt="Laravel Logo" width="100">
 <img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" alt="Inertia.js Logo" width="100">
 <img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="100">
@@ -35,6 +36,7 @@ My tech arsenal includes:
 <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/01/PL-SQL-Commands1.jpg" alt="PL/SQL Logo" width="100">
 <img src="https://pestphp.com/www/assets/logo.svg" alt="PestPHP Logo" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/512px-Tailwind_CSS_logo.svg.png?20220224135351" alt="Tailwind CSS Logo" width="100">
+</div>
 
 
 ## 🌱 Learning & Growing
