@@ -34,9 +34,9 @@ My tech arsenal includes:
 ![FilamentPHP Logo](https://user-images.githubusercontent.com/41773797/131910226-676cb28a-332d-4162-a6a8-136a93d5a70f.png)
 ![Livewire Logo](https://laravel-livewire.com/img/twitter.png)
 ![Alpine.js Logo](https://alpinejs.dev/alpine_long.svg)
-![HTML/CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HTML5_logo.svg/1200px-HTML5_logo.svg.png)
-![PL/SQL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/PLSQL_logo.svg/1200px-PLSQL_logo.svg.png)
-![PestPHP Logo](https://pestphp.com/img/logo.svg)
+![PL/SQL Logo](https://cdn.educba.com/academy/wp-content/uploads/2019/01/PL-SQL-Commands1.jpg)
+![PestPHP Logo](https://pestphp.com/www/assets/logo.svg)
+![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/512px-Tailwind_CSS_logo.svg.png?20220224135351)
 
 
 ## 🌱 Learning & Growing
