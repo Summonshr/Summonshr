@@ -24,7 +24,7 @@ My tech arsenal includes:
 
 
 
-![Laravel Logo](https://laravel.com/img/notification-logo.png "Laravel Logo" | width=100)
+![Laravel Logo](https://laravel.com/img/notification-logo.png | width=100)
 ![Inertia.js Logo](https://avatars.githubusercontent.com/u/47703742?s=280&v=4)
 ![Vue.js Logo](https://vuejs.org/images/logo.png)
 ![React.js Logo](https://www.datocms-assets.com/45470/1631110818-logo-react-js.png)
