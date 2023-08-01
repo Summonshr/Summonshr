@@ -22,21 +22,19 @@ My tech arsenal includes:
 - PL/SQL :file_cabinet:: Mastering the art of database management.
 - PestPHP :bug:: A delightful PHP testing framework with a focus on simplicity and readability.
 
-
-
-![Laravel Logo](https://laravel.com/img/notification-logo.png | width=100)
-![Inertia.js Logo](https://avatars.githubusercontent.com/u/47703742?s=280&v=4)
-![Vue.js Logo](https://vuejs.org/images/logo.png)
-![React.js Logo](https://www.datocms-assets.com/45470/1631110818-logo-react-js.png)
-![Flutter Logo](https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/02/Flutter-Framework-Feature-Image-Background-Colour.png)
-![Electron.js Logo](https://electronjs.org/images/electron-logo.svg)
-![Node.js Logo](https://nodejs.org/static/images/logo.svg)
-![FilamentPHP Logo](https://user-images.githubusercontent.com/41773797/131910226-676cb28a-332d-4162-a6a8-136a93d5a70f.png)
-![Livewire Logo](https://laravel-livewire.com/img/twitter.png)
-![Alpine.js Logo](https://alpinejs.dev/alpine_long.svg)
-![PL/SQL Logo](https://cdn.educba.com/academy/wp-content/uploads/2019/01/PL-SQL-Commands1.jpg)
-![PestPHP Logo](https://pestphp.com/www/assets/logo.svg)
-![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/512px-Tailwind_CSS_logo.svg.png?20220224135351)
+<img src="https://laravel.com/img/notification-logo.png" alt="Laravel Logo" width="100">
+<img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" alt="Inertia.js Logo" width="100">
+<img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="100">
+<img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="React.js Logo" width="100">
+<img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/02/Flutter-Framework-Feature-Image-Background-Colour.png" alt="Flutter Logo" width="100">
+<img src="https://electronjs.org/images/electron-logo.svg" alt="Electron.js Logo" width="100">
+<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="100">
+<img src="https://user-images.githubusercontent.com/41773797/131910226-676cb28a-332d-4162-a6a8-136a93d5a70f.png" alt="FilamentPHP Logo" width="100">
+<img src="https://laravel-livewire.com/img/twitter.png" alt="Livewire Logo" width="100">
+<img src="https://alpinejs.dev/alpine_long.svg" alt="Alpine.js Logo" width="100">
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2019/01/PL-SQL-Commands1.jpg" alt="PL/SQL Logo" width="100">
+<img src="https://pestphp.com/www/assets/logo.svg" alt="PestPHP Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/512px-Tailwind_CSS_logo.svg.png?20220224135351" alt="Tailwind CSS Logo" width="100">
 
 
 ## 🌱 Learning & Growing
