@@ -23,6 +23,10 @@ My tech arsenal includes:
 - PestPHP :bug:: A delightful PHP testing framework with a focus on simplicity and readability.
 
 
+
+![Laravel Logo](https://laravel.com/img/notification-logo.png "Laravel Logo")
+
+
 ## 🌱 Learning & Growing
 
 I believe in continuous learning and staying up-to-date with the latest trends in the web development world. Currently, I am exploring **Flutter** to dive into the exciting realm of cross-platform mobile app development.
@@ -36,6 +40,14 @@ Here are some of the projects I've worked on:
 - [Electron Notebook](https://github.com/Summonshr/electron-notebook): A simple note-taking application built with Electron, Tailwind CSS, and Vue.js.
 
 I'm also actively contributing to open-source projects, such as [Filamentphp](https://github.com/filamentphp/filament).
+
+## About Me
+
+- Banking and Software Professional
+- Experienced with NIC Asia Bank, Citizen Bank, Axis Bank, and Nelito Systems
+- Expertise in banking operations, customer service, and financial systems
+- Proficient in developing cutting-edge software solutions
+- Strong collaborator with a focus on problem-solving
 
 ## 📫 Let's Connect
 
