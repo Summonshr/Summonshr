@@ -25,6 +25,18 @@ My tech arsenal includes:
 
 
 ![Laravel Logo](https://laravel.com/img/notification-logo.png "Laravel Logo")
+![Inertia.js Logo](https://inertiajs.com/img/logo.svg)
+![Vue.js Logo](https://vuejs.org/images/logo.png)
+![React.js Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/React-icon.svg/1200px-React-icon.svg.png)
+![Flutter Logo](https://flutter.dev/assets/flutter-logo-dark.png)
+![Electron.js Logo](https://electronjs.org/images/electron-logo.svg)
+![Node.js Logo](https://nodejs.org/static/images/logo.svg)
+![FilamentPHP Logo](https://filamentphp.com/img/logo.svg)
+![Livewire Logo](https://laravel-livewire.com/img/logo.svg)
+![Alpine.js Logo](https://alpinejs.dev/assets/img/logo.svg)
+![HTML/CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HTML5_logo.svg/1200px-HTML5_logo.svg.png)
+![PL/SQL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/PLSQL_logo.svg/1200px-PLSQL_logo.svg.png)
+![PestPHP Logo](https://pestphp.com/img/logo.svg)
 
 
 ## 🌱 Learning & Growing
