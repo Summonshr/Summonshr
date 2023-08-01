@@ -24,19 +24,19 @@ My tech arsenal includes:
 
 
 
-![Laravel Logo](https://laravel.com/img/notification-logo.png "Laravel Logo")
-![Inertia.js Logo](https://avatars.githubusercontent.com/u/47703742?s=280&v=4)
-![Vue.js Logo](https://vuejs.org/images/logo.png)
-![React.js Logo](https://www.datocms-assets.com/45470/1631110818-logo-react-js.png)
-![Flutter Logo](https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/02/Flutter-Framework-Feature-Image-Background-Colour.png)
-![Electron.js Logo](https://electronjs.org/images/electron-logo.svg)
-![Node.js Logo](https://nodejs.org/static/images/logo.svg)
-![FilamentPHP Logo](https://user-images.githubusercontent.com/41773797/131910226-676cb28a-332d-4162-a6a8-136a93d5a70f.png)
-![Livewire Logo](https://laravel-livewire.com/img/twitter.png)
-![Alpine.js Logo](https://alpinejs.dev/alpine_long.svg)
-![PL/SQL Logo](https://cdn.educba.com/academy/wp-content/uploads/2019/01/PL-SQL-Commands1.jpg)
-![PestPHP Logo](https://pestphp.com/www/assets/logo.svg)
-![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/512px-Tailwind_CSS_logo.svg.png?20220224135351)
+![Laravel Logo](https://laravel.com/img/notification-logo.png "Laravel Logo") {: height="150px"}
+![Inertia.js Logo](https://avatars.githubusercontent.com/u/47703742?s=280&v=4) {: height="150px"}
+![Vue.js Logo](https://vuejs.org/images/logo.png){: height="150px"}
+![React.js Logo](https://www.datocms-assets.com/45470/1631110818-logo-react-js.png){: height="150px"}
+![Flutter Logo](https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/02/Flutter-Framework-Feature-Image-Background-Colour.png){: height="150px"}
+![Electron.js Logo](https://electronjs.org/images/electron-logo.svg){: height="150px"}
+![Node.js Logo](https://nodejs.org/static/images/logo.svg){: height="150px"}
+![FilamentPHP Logo](https://user-images.githubusercontent.com/41773797/131910226-676cb28a-332d-4162-a6a8-136a93d5a70f.png){: height="150px"}
+![Livewire Logo](https://laravel-livewire.com/img/twitter.png){: height="150px"}
+![Alpine.js Logo](https://alpinejs.dev/alpine_long.svg){: height="150px"}
+![PL/SQL Logo](https://cdn.educba.com/academy/wp-content/uploads/2019/01/PL-SQL-Commands1.jpg){: height="150px"}
+![PestPHP Logo](https://pestphp.com/www/assets/logo.svg){: height="150px"}
+![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/512px-Tailwind_CSS_logo.svg.png?20220224135351){: height="150px"}
 
 
 ## 🌱 Learning & Growing
