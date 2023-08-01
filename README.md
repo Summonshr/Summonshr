@@ -60,18 +60,19 @@ Feel free to explore my repositories, and don't forget to leave a ⭐️ if you 
 Happy coding! 🚀
 
 
-<div style="display: flex;">
-  <img src="https://laravel.com/img/notification-logo.png" alt="Laravel Logo" height="100" style="margin: 20;">
-  <img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" alt="Inertia.js Logo" height="100" style="margin: 20;">
-  <img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" height="100" style="margin: 20;">
-  <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="React.js Logo" height="100" style="margin: 20;">
-  <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/02/Flutter-Framework-Feature-Image-Background-Colour.png" alt="Flutter Logo" height="100" style="margin: 20;">
-  <img src="https://electronjs.org/images/electron-logo.svg" alt="Electron.js Logo" height="100" style="margin: 20">
-  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" height="100" style="margin: 20">
-  <img src="https://user-images.githubusercontent.com/41773797/131910226-676cb28a-332d-4162-a6a8-136a93d5a70f.png" alt="FilamentPHP Logo" height="100" style="margin: 20">
-  <img src="https://laravel-livewire.com/img/twitter.png" alt="Livewire Logo" height="100" style="margin: 20">
-  <img src="https://alpinejs.dev/alpine_long.svg" alt="Alpine.js Logo" height="100" style="margin: 20">
-  <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/01/PL-SQL-Commands1.jpg" alt="PL/SQL Logo" height="100" style="margin: 20;">
-  <img src="https://pestphp.com/www/assets/logo.svg" alt="PestPHP Logo" height="100" style="margin: 20;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/512px-Tailwind_CSS_logo.svg.png?20220224135351" alt="Tailwind CSS Logo" height="100" style="margin: 20;">
-</div>
+| Technology       | Logo                                                                                                 |
+|------------------|------------------------------------------------------------------------------------------------------|
+| Laravel          | ![Laravel Logo](https://laravel.com/img/notification-logo.png)                                      |
+| Inertia.js       | ![Inertia.js Logo](https://avatars.githubusercontent.com/u/47703742?s=280&v=4)                    |
+| Vue.js           | ![Vue.js Logo](https://vuejs.org/images/logo.png)                                                   |
+| React.js         | ![React.js Logo](https://www.datocms-assets.com/45470/1631110818-logo-react-js.png)                |
+| Flutter          | ![Flutter Logo](https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/02/Flutter-Framework-Feature-Image-Background-Colour.png) |
+| Electron.js      | ![Electron.js Logo](https://electronjs.org/images/electron-logo.svg)                                 |
+| Node.js          | ![Node.js Logo](https://nodejs.org/static/images/logo.svg)                                           |
+| FilamentPHP      | ![FilamentPHP Logo](https://user-images.githubusercontent.com/41773797/131910226-676cb28a-332d-4162-a6a8-136a93d5a70f.png) |
+| Livewire         | ![Livewire Logo](https://laravel-livewire.com/img/twitter.png)                                       |
+| Alpine.js        | ![Alpine.js Logo](https://alpinejs.dev/alpine_long.svg)                                              |
+| PL/SQL           | ![PL/SQL Logo](https://cdn.educba.com/academy/wp-content/uploads/2019/01/PL-SQL-Commands1.jpg)     |
+| PestPHP          | ![PestPHP Logo](https://pestphp.com/www/assets/logo.svg)                                             |
+| Tailwind CSS     | ![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/512px-Tailwind_CSS_logo.svg.png?20220224135351) |
+
