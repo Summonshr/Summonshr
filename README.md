@@ -56,7 +56,7 @@ I'm always open to new opportunities and collaborations. Let's connect and discu
 - [Twitter](https://twitter.com/sumfreelancer)
 
 Feel free to explore my repositories, and don't forget to leave a ⭐️ if you find something interesting!
-
+![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=summonshr&show_icons=true&theme=radical)
 Happy coding! 🚀
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://laravel.com/img/notification-logo.png" alt="Laravel Logo" height="69" style="margin: 20px;">
