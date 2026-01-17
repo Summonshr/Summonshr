@@ -88,17 +88,15 @@ I help improve [**FilamentPHP**](https://github.com/filamentphp/filament) and ot
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=summonshr&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=summonshr&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=summonshr&theme=tokyonight&hide_border=true)
+![Suman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=summonshr&theme=tokyo-night&hide_border=true)
 
 </div>
+
+> 💡 *Check out my [repositories](https://github.com/summonshr?tab=repositories) to see what I've been working on!*
 
 ---
 
