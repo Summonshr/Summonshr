@@ -92,8 +92,11 @@ I help improve [**FilamentPHP**](https://github.com/filamentphp/filament) and ot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=summonshr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=summonshr&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" height="165"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=summonshr&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=summonshr&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=summonshr&theme=tokyonight&hide_border=true)
 
 </div>
 
