@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Suman Shrestha
 
-### Senior Software Engineer · AI-focused Laravel & React Developer
+### Senior Software Engineer · Laravel, React & Agentic AI · [sumanshresth.com.np](https://www.sumanshresth.com.np)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=summonshr&color=6366f1&style=for-the-badge)](https://github.com/summonshr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://blog.sumanshresth.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sumanshresth.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suman-shresth)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/summonshr)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://summonshr.medium.com)
@@ -26,7 +26,7 @@ I'm a senior engineer with **10+ years** building enterprise-grade web applicati
 - 🏦 Shipped banking & FinTech platforms with **NIC Asia Bank**, **Citizen Bank International**, and **Nelito Systems**
 - 🤖 Deep into **LLM integrations, agentic workflows, and RAG** — turning AI capability into real product features
 - 🔭 Working mostly with **Laravel**, **React**, **Vue.js**, and **PostgreSQL**
-- 🛠️ Building developer tools like **[AgentPane](https://github.com/Summonshr/agentpane)** (multi-agent terminal) and **QueryDeck** (SQL workbench)
+- 🛠️ Building developer tools like **[AgentPane](https://github.com/Summonshr/agentpane-dist/releases/latest)** (multi-agent terminal) and **QueryDeck** (SQL workbench)
 - 🤝 Contributing to **[FilamentPHP](https://github.com/filamentphp/filament)** and other open-source projects
 - ✍️ Writing about Laravel optimization & AI on [Medium](https://summonshr.medium.com)
 
@@ -85,7 +85,7 @@ I'm a senior engineer with **10+ years** building enterprise-grade web applicati
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [AgentPane](https://github.com/Summonshr/agentpane)
+### 🤖 [AgentPane](https://github.com/Summonshr/agentpane-dist/releases/latest)
 Keyboard-first Tauri desktop app to run and supervise many terminal & AI-agent sessions (Claude, Codex, opencode) from one window — git worktree per agent, split grids, and PTY-backed sessions that survive restarts.
 
 `Tauri` · `Rust` · `React` · `AI agents`
@@ -140,7 +140,7 @@ Data aggregator connecting multiple financial data points into cleaner context f
 
 <div align="center">
 
-**More:** [cmatnepal.com](https://cmatnepal.com) · [llbpass.com](https://llbpass.com) · [Meroshare Widgets](https://meroshare.cdsc.com.np) · [see the full portfolio →](https://blog.sumanshresth.com.np)
+**More:** [cmatnepal.com](https://cmatnepal.com) · [llbpass.com](https://llbpass.com) · [Meroshare Widgets](https://summonshr.medium.com/advanced-widgets-for-meroshare-a-developerss-tale-9f9529bd8021) · [see the full portfolio →](https://www.sumanshresth.com.np)
 
 </div>
 
